@@ -5,9 +5,7 @@
 layout: single
 author_profile: true
 ---
-# RANA NASMIN
 **Cybersecurity Analyst**
-
 ## About Me  
 I'm a curious, persistent, and passionate professional focused on breaking, analyzing, and securing systems.  
 With a love for clean code and thoughtful design, I bring ideas to life through secure and efficient development.
