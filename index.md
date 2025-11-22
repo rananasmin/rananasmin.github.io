@@ -6,7 +6,6 @@ layout: home
 author_profile: true
 ---
 
-# RANA NASMIN 
 **Cybersecurity Analyst**
 
 ## About Me  
