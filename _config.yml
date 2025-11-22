@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rana Nasmin
-email:
+email: ranansmin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Cybersecurity Analyst who is curious, persistent, and passionate about breaking, analyzing, and securing systems.
 # twitter_username: username
@@ -81,10 +81,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rananasmin"
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:ranansmin@gmail.com""
-      
+
 defaults:
   # _posts
   - scope:
