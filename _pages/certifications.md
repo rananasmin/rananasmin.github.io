@@ -1,6 +1,6 @@
 ---
 title: "Certifications"
-permalink: /Certification/
+permalink: /certifications/
 author_profile: true
 ---
 
