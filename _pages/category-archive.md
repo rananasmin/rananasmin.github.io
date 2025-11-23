@@ -2,6 +2,7 @@
 title: "Projects"
 permalink: /project/
 author_profile: true
+---
 
 ## 🔒 Security Projects
 
@@ -26,6 +27,7 @@ Integrated webhook alerts from Wazuh and automated ticket creation/blocking mali
 **🔗 View Documentation:** *link*
 
 ---
+
 ## 📁 **4. Active Directory Home Lab (LetsDefend + Windows Server 2022)**
 
 ![AD Lab](/assets/images/projects/ad-lab.png)
@@ -40,4 +42,5 @@ Set up a Windows Server 2022 AD lab and performed hands-on SOC tasks including u
 - Working with Windows logs in Wazuh  
 
 **Tags:** `Active Directory` `Windows Security` `SOC`
+
 ---
