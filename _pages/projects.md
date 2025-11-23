@@ -8,7 +8,7 @@ author_profile: true
 
 **1. SIEM + SOC Lab (Wazuh, Suricata, Shuffle SOAR)**
 
-![SIEM Lab Setup](/assets/images/projects/siem-lab.png)
+![SIEM Lab Setup](assets/images/projects/SOC-lab.png)
 
 Description: 
 Built a complete SOC home lab including Wazuh SIEM, Suricata IDS, Filebeat → Logstash pipelines, and Shuffle SOAR automation.  
@@ -29,7 +29,7 @@ Tags: `SIEM` `SOC` `Wazuh` `Suricata` `SOAR` `OPNsense`
 
 **4. Active Directory Home Lab (LetsDefend + Windows Server 2022)**
 
-![AD Lab](/assets/images/projects/ad-lab.png)
+![AD Lab](/assets/images/projects/AD-lab.png)
 
 Description: 
 Set up a Windows Server 2022 AD lab and performed hands-on SOC tasks including user management, GPO usage, and log analysis.
