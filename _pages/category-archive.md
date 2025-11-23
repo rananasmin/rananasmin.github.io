@@ -6,7 +6,7 @@ author_profile: true
 
 ## 🔒 Security Projects
 
-## 🛡️ **1. SIEM + SOC Lab (Wazuh, Suricata, Shuffle SOAR)**
+🛡️ **1. SIEM + SOC Lab (Wazuh, Suricata, Shuffle SOAR)**
 
 ![SIEM Lab Setup](/assets/images/projects/siem-lab.png)
 
@@ -23,12 +23,11 @@ Integrated webhook alerts from Wazuh and automated ticket creation/blocking mali
 
 **Tags:** `SIEM` `SOC` `Wazuh` `Suricata` `SOAR` `OPNsense`
 
-**🔗 View Playbook:** *link if you have one*  
 **🔗 View Documentation:** *link*
 
 ---
 
-## 📁 **4. Active Directory Home Lab (LetsDefend + Windows Server 2022)**
+📁 **4. Active Directory Home Lab (LetsDefend + Windows Server 2022)**
 
 ![AD Lab](/assets/images/projects/ad-lab.png)
 
