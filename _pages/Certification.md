@@ -48,7 +48,7 @@ Gained foundational knowledge of networking concepts including OSI layers, TCP/I
 
 ---
 
-## 🔐 **4. Manage Security Risks — Google**
+## 🔐 **3. Manage Security Risks — Google**
 
 **Platform:** Coursera  
 **Description:**  
@@ -67,7 +67,7 @@ Focused on applying risk management concepts, using security frameworks, analyzi
 
 ---
 
-## 🛠️ **3. Technical Support Fundamentals — Google**
+## 🛠️ **4. Technical Support Fundamentals — Google**
 
 **Platform:** Coursera  
 **Description:**  
