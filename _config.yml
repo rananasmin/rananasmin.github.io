@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # github_username: username
 minimal_mistakes_skin: neon
 search: true
-
+favicon: "/assets/images/Image.jpg"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
