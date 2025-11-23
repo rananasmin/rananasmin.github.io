@@ -8,7 +8,7 @@ author_profile: true
 
 **1. SIEM + SOC Lab (Wazuh, Suricata, Shuffle SOAR)**
 
-![SIEM Lab Setup](../assets/images/projects/SOC-lab.png)
+![SIEM Lab Setup](../assets/images/projects/SOC-lab.jpg)
 
 Description: 
 Built a complete SOC home lab including Wazuh SIEM, Suricata IDS, Filebeat → Logstash pipelines, and Shuffle SOAR automation.  
