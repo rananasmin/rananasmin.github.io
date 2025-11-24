@@ -21,13 +21,7 @@ sass:
 include:
   - assets/css
 
-# Tell Minimal Mistakes to load our stylesheet
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "assets/css/main.scss"
+
 
 title: Rana Nasmin
 email: ranansmin@gmail.com
@@ -99,6 +93,11 @@ footer:
       url: "https://github.com/rananasmin"
 
 defaults:
+# Tell Minimal Mistakes to load our stylesheet
+  - scope:
+      path: ""
+    values:
+      css: "assets/css/custom.css"
   # _posts
   - scope:
       path: ""
