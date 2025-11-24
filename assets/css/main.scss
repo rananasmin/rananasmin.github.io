@@ -8,11 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-html {
-  font-size: 18px; /* base size */
+.page__content p {
+  font-size: 0.85rem !important;
 }
 
-p {
-  font-size: 0.8rem; /* ~18px, smaller than before */
+.page__content {
+  font-size: 0.85rem !important;
 }
 
