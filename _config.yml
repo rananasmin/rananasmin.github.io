@@ -14,14 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # Custom CSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-include:
-  - assets/css
-
-
 
 title: Rana Nasmin
 email: ranansmin@gmail.com
@@ -93,11 +85,6 @@ footer:
       url: "https://github.com/rananasmin"
 
 defaults:
-# Tell Minimal Mistakes to load our stylesheet
-  - scope:
-      path: ""
-    values:
-      css: "/assets/css/main.css"
   # _posts
   - scope:
       path: ""
