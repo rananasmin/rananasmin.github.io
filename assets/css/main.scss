@@ -1,10 +1,11 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
 ---
 
-@import "minimal-mistakes/skins/neon";
-@import "minimal-mistakes";
+@charset "utf-8";
 
-/* Your overrides below */
-body {
-  font-size: 14px !important;
-}
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+$doc-font-size: 12px;
