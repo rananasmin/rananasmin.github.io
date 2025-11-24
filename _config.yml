@@ -13,9 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Custom CSS
 sass:
   sass_dir: _sass
   style: compressed
+
+include:
+  - assets/css
+
+# Tell Minimal Mistakes to load our stylesheet
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "assets/css/main.css"
 
 title: Rana Nasmin
 email: ranansmin@gmail.com
