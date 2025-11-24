@@ -9,8 +9,23 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 html {
-  font-size: 18px; // reduce base font size
+  font-size: 18px; /* base size */
 }
+
 p {
-  font-size: 1.2rem; // smaller body text
+  font-size: 1rem; /* ~18px, smaller than before */
+}
+
+/* Headings larger than paragraphs */
+h1 {
+  font-size: 2rem;   /* ~36px */
+}
+h2 {
+  font-size: 1.6rem; /* ~28.8px */
+}
+h3 {
+  font-size: 1.4rem; /* ~25.2px */
+}
+h4 {
+  font-size: 1.2rem; /* ~21.6px */
 }
