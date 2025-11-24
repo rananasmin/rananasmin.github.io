@@ -27,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      css: "assets/css/main.css"
+      css: "assets/css/main.scss"
 
 title: Rana Nasmin
 email: ranansmin@gmail.com
