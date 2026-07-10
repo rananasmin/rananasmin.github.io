@@ -9,4 +9,4 @@ My journey into cybersecurity started with a simple curiosity: Why do systems be
 
 But the deeper I went, the more I realized cybersecurity is bigger than just detection. I started breaking web apps, reversing Android APKs, studying cloud security misconfigurations, and experimenting with exploits on vulnerable machines. Each project felt like a puzzle, understand the system, study its weaknesses, replicate the adversary’s mindset, and then build something stronger than before. Over time, this curiosity turned into a passion not just for defense or offense, but for the process of researching, experimenting, and learning how different pieces of technology interconnect. Today, I’m driven by the same question that started it all What’s really happening beneath the surface and how can I make it better?
 
-[My Resume](assets/RanaNasmin_resume (2).pdf)
+![My Resume](../assets/RanaNasmin_resume.pdf)
